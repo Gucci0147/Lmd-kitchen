@@ -1,0 +1,28 @@
+Installation of pkgs
+Clean ups- title change, text bootstrap, clear out pre-built css
+
+set Up the react router dom
+install react-router-dom
+setting pages (home, about, error, single meal)
+set up routing in the application
+
+Navbar - bootstrap navbar
+Footer
+
+About and Error pages
+
+Home pages
+banner
+form
+meal list
+
+Overview of the API - themealdb.com/api
+www.themealdb.com/api/json/v1/1/search.php?s= 25 items
+www.themealdb.com/api/json/v1/1/lookup.php?i=52772
+
+//context api
+loading, searchValue, data 
+// loading component
+
+//single meal page
+//route for the single meal page
